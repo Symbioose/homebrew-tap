@@ -1,6 +1,6 @@
 cask "claude-switcher" do
-  version "0.4.0"
-  sha256 "6718c06f54a8fb0d43ef67f33519936f56517fee7602fb596a2eb77a76660762"
+  version "0.4.1"
+  sha256 "a44f6554760cf50f1166b56c353a0c85e64dccc9f214f9b51a271563c3d0b8f5"
   url "https://github.com/Symbioose/claude-account-switcher/releases/download/v#{version}/Claude-Switcher-v#{version}.zip"
   name "Claude Switcher"
   desc "Switch between Claude Code and Codex CLI accounts from the menu bar"
